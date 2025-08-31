@@ -1,0 +1,7 @@
+[server]
+# Set the Python version
+# Use Python 3.12, which is compatible with your pandas version
+# You can also try 3.11 or 3.10
+# For the most up-to-date Python versions, see the Streamlit docs.
+# https://docs.streamlit.io/streamlit-community-cloud/get-started/share-your-app#set-a-python-version
+pythonVersion = "3.12"
